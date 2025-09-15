@@ -6,6 +6,7 @@ Solving LeetCode DSA problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 ## Array
 |  |
