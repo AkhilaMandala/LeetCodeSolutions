@@ -14,10 +14,12 @@ Solving LeetCode DSA problems
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0658-find-k-closest-elements](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0658-find-k-closest-elements](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
