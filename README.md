@@ -9,6 +9,7 @@ Solving LeetCode DSA problems
 | [0007-reverse-integer](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Solving LeetCode DSA problems
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0658-find-k-closest-elements](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
@@ -37,6 +39,7 @@ Solving LeetCode DSA problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
