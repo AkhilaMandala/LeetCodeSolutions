@@ -10,6 +10,7 @@ Solving LeetCode DSA problems
 | [0009-palindrome-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0263-ugly-number) |
 ## Array
 |  |
 | ------- |
