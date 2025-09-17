@@ -17,6 +17,7 @@ Solving LeetCode DSA problems
 | ------- |
 | [0031-next-permutation](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0217-contains-duplicate](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0658-find-k-closest-elements](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -37,6 +38,7 @@ Solving LeetCode DSA problems
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0658-find-k-closest-elements](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -47,6 +49,7 @@ Solving LeetCode DSA problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
