@@ -17,6 +17,7 @@ Solving LeetCode DSA problems
 | ------- |
 | [0031-next-permutation](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0217-contains-duplicate](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0658-find-k-closest-elements](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -71,4 +72,8 @@ Solving LeetCode DSA problems
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
