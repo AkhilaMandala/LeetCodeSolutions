@@ -17,6 +17,7 @@ Solving LeetCode DSA problems
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0217-contains-duplicate](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
@@ -51,6 +52,7 @@ Solving LeetCode DSA problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
@@ -75,9 +77,11 @@ Solving LeetCode DSA problems
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
