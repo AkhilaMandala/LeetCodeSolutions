@@ -21,6 +21,7 @@ Solving LeetCode DSA problems
 | [0042-trapping-rain-water](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0217-contains-duplicate](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -56,6 +57,7 @@ Solving LeetCode DSA problems
 | [0202-happy-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -84,4 +86,8 @@ Solving LeetCode DSA problems
 | ------- |
 | [0037-sudoku-solver](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0046-permutations) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
