@@ -20,6 +20,7 @@ Solving LeetCode DSA problems
 | [0037-sudoku-solver](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0046-permutations) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
@@ -35,6 +36,7 @@ Solving LeetCode DSA problems
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0792-binary-search) |
 ## Sliding Window
