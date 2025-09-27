@@ -17,6 +17,7 @@ Solving LeetCode DSA problems
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
@@ -38,6 +39,7 @@ Solving LeetCode DSA problems
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0162-find-peak-element) |
