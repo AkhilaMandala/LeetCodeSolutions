@@ -12,6 +12,7 @@ Solving LeetCode DSA problems
 | [0202-happy-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
+| [0367-valid-perfect-square](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -45,6 +46,7 @@ Solving LeetCode DSA problems
 | [0035-search-insert-position](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0792-binary-search) |
 ## Sliding Window
