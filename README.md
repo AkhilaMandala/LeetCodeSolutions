@@ -30,6 +30,7 @@ Solving LeetCode DSA problems
 | [0560-subarray-sum-equals-k](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ Solving LeetCode DSA problems
 | [0367-valid-perfect-square](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
