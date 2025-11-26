@@ -106,4 +106,8 @@ Solving LeetCode DSA problems
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
