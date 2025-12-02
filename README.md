@@ -109,6 +109,7 @@ Solving LeetCode DSA problems
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0182-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/AkhilaMandala/LeetCodeSolutions/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
